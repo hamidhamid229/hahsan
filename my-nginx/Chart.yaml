@@ -1,0 +1,8 @@
+apiversion: v1
+name: my-nginx
+version: 1.0.0
+appVersion: 2.0.0
+description: my nginx chart ...
+maintainers:
+  - name: Anisa
+    email: info@hamid.com  

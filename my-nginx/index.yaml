@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  my-nginx:
+  - apiVersion: v1
+    appVersion: 2.0.0
+    created: "2025-09-25T13:08:53.636830385Z"
+    description: my nginx chart ...
+    digest: 4926dca7b3c3a9b29b0cdb9249368806fd9690dc5bdde5d6f028aa57e2be7bad
+    maintainers:
+    - email: info@hamid.com
+      name: Anisa
+    name: my-nginx
+    urls:
+    - my-nginx-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-09-25T13:08:53.63645484Z"
